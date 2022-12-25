@@ -6,10 +6,10 @@ require "sassc/version"
 
 Gem::Specification.new do |spec|
 
-  spec.name          = "sassc"
+  spec.name          = "sassc-mokum"
   spec.version       = SassC::VERSION
-  spec.authors       = ["Ryan Boland"]
-  spec.email         = ["ryan@tanookilabs.com"]
+  spec.authors       = ["Alexey Makhotkin", "Ryan Boland"]
+  spec.email         = ["squadette@gmail.com"]
   spec.summary       = "Use libsass with Ruby!"
   spec.description   = "Use libsass with Ruby!"
   spec.homepage      = "https://github.com/sass/sassc-ruby"
